@@ -1,0 +1,15 @@
+[
+  {
+    "type": "ITEM",
+    "id": "id_con_member",
+    "looks_like": "id_science",
+    "copy-from": "card_plastic_abstract",
+    "color": "green",
+    "name": { "str": "con badge" },
+    "description": "An artistically designed badge that gives you access to a furry con. With a drawn picture of a sona and a name in colorful letters.",
+    "price": "1200 USD",
+    "price_postapoc": "1 USD",
+    "category": "keys"
+  }
+
+]
