@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "furry_con",
+    "name": "<color_blue>furry con</color>",
+    "authors": [ "Federkie" ],
+    "description": "Adds fursuit zombies to the convention center. ",
+    "version": "TLG version",
+    "category": "content",
+    "dependencies": [ "tlg" ]
+  }
+]
