@@ -1,0 +1,14 @@
+[
+  {
+    "type": "item_group",
+    "subtype": "collection",
+    "id": "mon_zom_fursuit_deathdrops",
+    "entries": [
+      { "item": "id_con_member", "damage": [ -1, 5 ], "count": [ 0, 1 ] },
+      { "item": "faux_fur_patch", "damage": [ -1, 5 ], "count": [ 1, 4 ] },
+      { "group": "pants", "damage": [ 4, 5 ] },
+      { "group": "default_zombie_items" },
+      { "group": "fursuits", "damage": [ -1, 5 ] }
+    ]
+  }
+]

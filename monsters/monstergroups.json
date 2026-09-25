@@ -1,0 +1,9 @@
+[
+  {
+    "type": "monstergroup",
+    "name": "GROUP_ZOMBIE_FURSUIT",
+    "monsters": [
+{ "monster": "mon_zom_fursuit", "weight": 350, "cost_multiplier": 0 }
+]
+}
+]
