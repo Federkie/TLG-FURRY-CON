@@ -1,0 +1,25 @@
+[
+  {
+    "type": "monstergroup",
+    "name": "GROUP_ZOMBIE_HORDE",
+    "monsters": [
+   
+      { "monster": "mon_zom_fursuit", "weight": 1, "cost_multiplier": 0 }
+    ]
+  },
+  {
+    "type": "monstergroup",
+    "name": "GROUP_HOUSE",
+    "//": "+15% child",
+    "monsters": [
+      { "monster": "mon_zom_fursuit", "weight": 1, "cost_multiplier": 0 }
+    ]
+  },
+  {
+    "name": "GROUP_PARK_SCENIC",
+    "type": "monstergroup",
+    "monsters": [
+      { "monster": "mon_zom_fursuit", "weight": 5 }
+    ]
+  }
+]
