@@ -1,8 +1,4 @@
-# TLG-Naturis
 A mod for Cataclysm the last generation.
-
-The goal of this mod is to bring a little more 'life' into the convention center.
-
 
 Current feautures:
 
